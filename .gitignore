@@ -1,5 +1,6 @@
-/bootstrap/compiled.php
-.env.*.php
-.env.php
+
+/node_modules
+Homestead.yaml
+Homestead.json
 .env
 /nbproject/private/
